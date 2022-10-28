@@ -233,6 +233,7 @@ a:hover {
     position: absolute;
     left: 83%;
     top: 82.7%;
+    top: 82.8%;
     transform: translateX(-50%) translateY(-50%);
     width: 20px;
     height: 20px;
@@ -309,8 +310,8 @@ a:hover {
 
    .console-pulsing-circle {
     position: absolute;
-    left: 50.2%;
-    top: 62.7%;
+    left: 50.3%;
+    top: 62.6%;
     transform: translateX(-50%) translateY(-50%);
     width: 20px;
     height: 20px;
@@ -470,3 +471,5 @@ a:hover {
     text-align: center;
     line-height: 40px;
    }
+
+
