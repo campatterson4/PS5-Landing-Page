@@ -448,6 +448,14 @@ a:hover {
     color: #36454F;
   }
 
+  .remote-specs p {
+    position: relative;
+    font-weight: 100;
+    font-size: 16px;
+    color: #36454F;
+    width: 20%;
+    text-align: center;
+  }
 
 
 
