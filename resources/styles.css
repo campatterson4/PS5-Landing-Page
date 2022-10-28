@@ -223,9 +223,9 @@ a:hover {
    }
 
    .top-remote-line {
-    top: 59.2%;
-    left: 26.2%;
-    width: 17%;
+    top: 56.2%;
+    left: 24.7%;
+    width: 20%;
     transform: rotate(90deg)
    }
 
@@ -457,9 +457,36 @@ a:hover {
     text-align: center;
   }
 
+  .remote-specs .triggers {
+    left: 25.9%;
+    top: 40px;
+  }
 
+  .remote-specs .triggers-p {
+    left: 13.5%;
+    top: 45px;
+  }
 
+  .remote-specs .haptic-feedback {
+    left: 26.5%;
+    top: 55px;
+  }
 
+  .remote-specs .haptic-feedback-p {
+    left: 14%;
+    top: 60px;
+  }
+
+  .remote-specs .speak {
+    left: 23.15%;
+    top: 75px;
+  }
+
+  .remote-specs .speak-p {
+    left: 15.1%;
+    top: 80px;
+    width: 18% !important;
+  }
 
 
 
