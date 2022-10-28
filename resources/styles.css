@@ -434,8 +434,34 @@ a:hover {
     right: 14.4%;
     top: 615px;
   }
-  
+
   /* END */
+
+  /* REMOTE SPECS */
+
+  .remote-specs li {
+    font-weight: bold;
+    list-style-type: none;
+    position: relative;
+    left: 20%;
+    /* top: 400px; */
+    color: #36454F;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
    /* SUMMARY */
